@@ -33,6 +33,7 @@ contributors = [
     GITHUB : "https://github.com/Soumyamooda",
   },
 
+  
   {
     NAME : "Mooda Soumya",
     YEAR : "3rd",
@@ -41,6 +42,8 @@ contributors = [
     BIO : "Frontend Web Developer",
     GITHUB : "https://github.com/Soumyamooda",
   },
+
+  
   
 ];
 
