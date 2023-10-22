@@ -22,6 +22,15 @@ contributors = [
   },
 
   {
+    NAME: "Sai Teja Reddy",
+    YEAR: "2nd",
+    BRANCH: "IT",
+    COLLEGE: "GRIET",
+    BIO: "Web Developer",
+    GITHUB: "https://github.com/Saitejar990",
+  },
+  
+  {
     NAME: "Yerra Akash",
     YEAR: "3rd",
     BRANCH: "CSE",
