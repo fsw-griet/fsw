@@ -169,6 +169,15 @@ contributors = [
     BIO : " Frontend Web Developer",
     GITHUB : "https://github.com/SiddhuS0",
   },
+
+  {
+    NAME : "K Madhusudhan",
+    YEAR : "3rd",
+    BRANCH : "IT",
+    COLLEGE : "GRIET",
+    BIO : " Frontend Web Developer",
+    GITHUB : "https://github.com/madhuusudhan",
+  },
 ];
 
 
