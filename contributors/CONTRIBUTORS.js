@@ -178,6 +178,15 @@ contributors = [
     BIO : " Frontend Web Developer",
     GITHUB : "https://github.com/madhuusudhan",
   },
+
+   {
+    NAME : "Animesh",
+    YEAR : "2nd",
+    BRANCH : "ECE",
+    COLLEGE : "GRIET",
+    BIO : " Frontend Web Developer",
+    GITHUB : "https://github.com/Animeshh-22",
+  },
 ];
 
 
