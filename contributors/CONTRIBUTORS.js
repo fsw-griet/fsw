@@ -66,7 +66,7 @@ contributors = [
   },
     
   {
-    NAME : "Ch Benerjee",
+    NAME : "Ch Benerjee Reddy",
     YEAR : "3rd",
     BRANCH : "AIML",
     COLLEGE : "GRIET",
